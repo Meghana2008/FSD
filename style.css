@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+table,th,td {
+    width: 300px;
+    margin:auto;
+    font-size:large;
+    padding:10px;
+    text align:center;
+    border:1px solid;
+    border-color:pink(67,55,198);
+    background-color:pink(255,249,196);
+}
